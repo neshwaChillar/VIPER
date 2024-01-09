@@ -9,21 +9,47 @@
 /* Begin PBXBuildFile section */
 		271025402B3155350085E3C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2710253F2B3155350085E3C8 /* AppDelegate.swift */; };
 		271025422B3155350085E3C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025412B3155350085E3C8 /* SceneDelegate.swift */; };
-		271025442B3155350085E3C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025432B3155350085E3C8 /* ViewController.swift */; };
 		271025472B3155350085E3C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 271025452B3155350085E3C8 /* Main.storyboard */; };
 		271025492B3155380085E3C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 271025482B3155380085E3C8 /* Assets.xcassets */; };
 		2710254C2B3155380085E3C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2710254A2B3155380085E3C8 /* LaunchScreen.storyboard */; };
+		271025612B32B3FD0085E3C8 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025602B32B3FD0085E3C8 /* AppConstants.swift */; };
+		2710256B2B32BB0E0085E3C8 /* NoticeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025692B32BB0D0085E3C8 /* NoticeTableViewCell.swift */; };
+		2710256C2B32BB0E0085E3C8 /* NoticeTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2710256A2B32BB0D0085E3C8 /* NoticeTableViewCell.xib */; };
+		2710256E2B32BC350085E3C8 /* MoviesEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2710256D2B32BC350085E3C8 /* MoviesEntity.swift */; };
+		271025702B32BC580085E3C8 /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2710256F2B32BC580085E3C8 /* MoviesViewController.swift */; };
+		271025722B32BC8A0085E3C8 /* NoticeEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025712B32BC8A0085E3C8 /* NoticeEntity.swift */; };
+		271025742B32BCA20085E3C8 /* NoticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 271025732B32BCA20085E3C8 /* NoticeViewController.swift */; };
+		27CADCB12B32BFE400D16783 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CADCB02B32BFE400D16783 /* APIManager.swift */; };
+		27CADCB32B32C10800D16783 /* NoticeIntractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CADCB22B32C10800D16783 /* NoticeIntractor.swift */; };
+		27CADCB52B32C11400D16783 /* NoticePresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CADCB42B32C11400D16783 /* NoticePresenter.swift */; };
+		27CADCB72B32C13600D16783 /* NoticeRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CADCB62B32C13600D16783 /* NoticeRouter.swift */; };
+		27CADCB92B32C18400D16783 /* NoticeProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27CADCB82B32C18400D16783 /* NoticeProtocol.swift */; };
+		A10C94E3B5621013F4E7F684 /* Pods_VIPER.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D1211893B8F5CF83D0A7A1D1 /* Pods_VIPER.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2710253C2B3155350085E3C8 /* VIPER.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VIPER.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2710253F2B3155350085E3C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		271025412B3155350085E3C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		271025432B3155350085E3C8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		271025462B3155350085E3C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		271025482B3155380085E3C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2710254B2B3155380085E3C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2710254D2B3155380085E3C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		271025602B32B3FD0085E3C8 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		271025692B32BB0D0085E3C8 /* NoticeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeTableViewCell.swift; sourceTree = "<group>"; };
+		2710256A2B32BB0D0085E3C8 /* NoticeTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NoticeTableViewCell.xib; sourceTree = "<group>"; };
+		2710256D2B32BC350085E3C8 /* MoviesEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesEntity.swift; sourceTree = "<group>"; };
+		2710256F2B32BC580085E3C8 /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		271025712B32BC8A0085E3C8 /* NoticeEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeEntity.swift; sourceTree = "<group>"; };
+		271025732B32BCA20085E3C8 /* NoticeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeViewController.swift; sourceTree = "<group>"; };
+		27CADCB02B32BFE400D16783 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		27CADCB22B32C10800D16783 /* NoticeIntractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeIntractor.swift; sourceTree = "<group>"; };
+		27CADCB42B32C11400D16783 /* NoticePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticePresenter.swift; sourceTree = "<group>"; };
+		27CADCB62B32C13600D16783 /* NoticeRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeRouter.swift; sourceTree = "<group>"; };
+		27CADCB82B32C18400D16783 /* NoticeProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoticeProtocol.swift; sourceTree = "<group>"; };
+		349793AE176267B21104385E /* Pods-VIPER.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VIPER.debug.xcconfig"; path = "Target Support Files/Pods-VIPER/Pods-VIPER.debug.xcconfig"; sourceTree = "<group>"; };
+		D1211893B8F5CF83D0A7A1D1 /* Pods_VIPER.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VIPER.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCA85E89F152E382C428D492 /* Pods-VIPER.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VIPER.release.xcconfig"; path = "Target Support Files/Pods-VIPER/Pods-VIPER.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A10C94E3B5621013F4E7F684 /* Pods_VIPER.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +69,8 @@
 			children = (
 				2710253E2B3155350085E3C8 /* VIPER */,
 				2710253D2B3155350085E3C8 /* Products */,
+				99D0E155D69E3E2646E7C62C /* Pods */,
+				D1921EB45B8524CD62BC1917 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +85,91 @@
 		2710253E2B3155350085E3C8 /* VIPER */ = {
 			isa = PBXGroup;
 			children = (
-				2710253F2B3155350085E3C8 /* AppDelegate.swift */,
-				271025412B3155350085E3C8 /* SceneDelegate.swift */,
-				271025432B3155350085E3C8 /* ViewController.swift */,
+				271025672B32B9B00085E3C8 /* NoticeModule */,
+				271025662B32B9A50085E3C8 /* MovieModule */,
+				2710255C2B32A5B50085E3C8 /* Application */,
+				2710255F2B32A8390085E3C8 /* Utils */,
+				2710255D2B32A7CB0085E3C8 /* Network */,
+				271025682B32BADE0085E3C8 /* View */,
 				271025452B3155350085E3C8 /* Main.storyboard */,
 				271025482B3155380085E3C8 /* Assets.xcassets */,
 				2710254A2B3155380085E3C8 /* LaunchScreen.storyboard */,
 				2710254D2B3155380085E3C8 /* Info.plist */,
 			);
 			path = VIPER;
+			sourceTree = "<group>";
+		};
+		2710255C2B32A5B50085E3C8 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				271025412B3155350085E3C8 /* SceneDelegate.swift */,
+				2710253F2B3155350085E3C8 /* AppDelegate.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		2710255D2B32A7CB0085E3C8 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				27CADCB02B32BFE400D16783 /* APIManager.swift */,
+			);
+			path = Network;
+			sourceTree = "<group>";
+		};
+		2710255F2B32A8390085E3C8 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				271025602B32B3FD0085E3C8 /* AppConstants.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		271025662B32B9A50085E3C8 /* MovieModule */ = {
+			isa = PBXGroup;
+			children = (
+				2710256D2B32BC350085E3C8 /* MoviesEntity.swift */,
+				2710256F2B32BC580085E3C8 /* MoviesViewController.swift */,
+			);
+			path = MovieModule;
+			sourceTree = "<group>";
+		};
+		271025672B32B9B00085E3C8 /* NoticeModule */ = {
+			isa = PBXGroup;
+			children = (
+				271025732B32BCA20085E3C8 /* NoticeViewController.swift */,
+				27CADCB22B32C10800D16783 /* NoticeIntractor.swift */,
+				27CADCB42B32C11400D16783 /* NoticePresenter.swift */,
+				271025712B32BC8A0085E3C8 /* NoticeEntity.swift */,
+				27CADCB62B32C13600D16783 /* NoticeRouter.swift */,
+				27CADCB82B32C18400D16783 /* NoticeProtocol.swift */,
+			);
+			path = NoticeModule;
+			sourceTree = "<group>";
+		};
+		271025682B32BADE0085E3C8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				271025692B32BB0D0085E3C8 /* NoticeTableViewCell.swift */,
+				2710256A2B32BB0D0085E3C8 /* NoticeTableViewCell.xib */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		99D0E155D69E3E2646E7C62C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				349793AE176267B21104385E /* Pods-VIPER.debug.xcconfig */,
+				FCA85E89F152E382C428D492 /* Pods-VIPER.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		D1921EB45B8524CD62BC1917 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D1211893B8F5CF83D0A7A1D1 /* Pods_VIPER.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +179,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 271025502B3155380085E3C8 /* Build configuration list for PBXNativeTarget "VIPER" */;
 			buildPhases = (
+				55989793AFC0F443B4ECFE03 /* [CP] Check Pods Manifest.lock */,
 				271025382B3155350085E3C8 /* Sources */,
 				271025392B3155350085E3C8 /* Frameworks */,
 				2710253A2B3155350085E3C8 /* Resources */,
+				5B041445CED1D1EB15B5B72D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -126,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2710254C2B3155380085E3C8 /* LaunchScreen.storyboard in Resources */,
+				2710256C2B32BB0E0085E3C8 /* NoticeTableViewCell.xib in Resources */,
 				271025492B3155380085E3C8 /* Assets.xcassets in Resources */,
 				271025472B3155350085E3C8 /* Main.storyboard in Resources */,
 			);
@@ -133,14 +241,66 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		55989793AFC0F443B4ECFE03 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VIPER-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5B041445CED1D1EB15B5B72D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VIPER/Pods-VIPER-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VIPER/Pods-VIPER-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VIPER/Pods-VIPER-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		271025382B3155350085E3C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				271025442B3155350085E3C8 /* ViewController.swift in Sources */,
 				271025402B3155350085E3C8 /* AppDelegate.swift in Sources */,
 				271025422B3155350085E3C8 /* SceneDelegate.swift in Sources */,
+				271025612B32B3FD0085E3C8 /* AppConstants.swift in Sources */,
+				27CADCB12B32BFE400D16783 /* APIManager.swift in Sources */,
+				2710256B2B32BB0E0085E3C8 /* NoticeTableViewCell.swift in Sources */,
+				271025722B32BC8A0085E3C8 /* NoticeEntity.swift in Sources */,
+				27CADCB32B32C10800D16783 /* NoticeIntractor.swift in Sources */,
+				27CADCB92B32C18400D16783 /* NoticeProtocol.swift in Sources */,
+				27CADCB52B32C11400D16783 /* NoticePresenter.swift in Sources */,
+				27CADCB72B32C13600D16783 /* NoticeRouter.swift in Sources */,
+				271025702B32BC580085E3C8 /* MoviesViewController.swift in Sources */,
+				271025742B32BCA20085E3C8 /* NoticeViewController.swift in Sources */,
+				2710256E2B32BC350085E3C8 /* MoviesEntity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,11 +447,14 @@
 		};
 		271025512B3155380085E3C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 349793AE176267B21104385E /* Pods-VIPER.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PEPEHLK578;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VIPER/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,11 +477,14 @@
 		};
 		271025522B3155380085E3C8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FCA85E89F152E382C428D492 /* Pods-VIPER.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = PEPEHLK578;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = VIPER/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0FA2B13A-8F88-435F-8CEA-9F39888BEAD0"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0013EE6-6253-4F2B-988F-059ACAD67742"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeIntractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchNotice()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0013EE6-6253-4F2B-988F-059ACAD67742 - 3bab59cd543cf7b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  uuid = "A0013EE6-6253-4F2B-988F-059ACAD67742 - 3bab59cd543cf7b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "435">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9227D3AA-C45D-428B-963D-9DC5F3DAAF37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DACFA78E-6DFB-4F89-89BC-544EC8B16A7E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "startfetching()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A1D4243-EE43-4BC7-AFA5-AC6F6589C1B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeIntractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchNotice()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A1D4243-EE43-4BC7-AFA5-AC6F6589C1B7 - 9b4e6d78b139f179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1A1D4243-EE43-4BC7-AFA5-AC6F6589C1B7 - 3bab59cd543cf7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "1A1D4243-EE43-4BC7-AFA5-AC6F6589C1B7 - 9b4e6d78b139f179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "1A1D4243-EE43-4BC7-AFA5-AC6F6589C1B7 - 3bab59cd543cf7d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "242">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1BB9689-5129-425C-974A-5641A3A7BC1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeIntractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchNotice()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1BB9689-5129-425C-974A-5641A3A7BC1B - 3bab59cd543cf634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "894">
+               </Location>
+               <Location
+                  uuid = "F1BB9689-5129-425C-974A-5641A3A7BC1B - 3bab59cd543cf634"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;VIPER.NoticeModel, Swift.Error&gt;) -&gt; () in VIPER.NoticeIntractor.fetchNotice() -&gt; ()"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticeIntractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1246">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAA5D9E3-74B9-4006-B71F-2AFEB2C2AF43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "noticeFetchedSuccess(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C524B1FA-F4B7-4A89-A891-7F40BF19CDDE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticePresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "NoticePresenter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C524B1FA-F4B7-4A89-A891-7F40BF19CDDE - 7f64b5c50db7e065"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticePresenter.deinit"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "C524B1FA-F4B7-4A89-A891-7F40BF19CDDE - 4bb7de0eebc4c558"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticePresenter.__deallocating_deinit"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C524B1FA-F4B7-4A89-A891-7F40BF19CDDE - 2a1d400699306423"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticePresenter.__allocating_init() -&gt; VIPER.NoticePresenter"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C524B1FA-F4B7-4A89-A891-7F40BF19CDDE - e48832cd29e2dfe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "VIPER.NoticePresenter.init() -&gt; VIPER.NoticePresenter"
+                  moduleName = "VIPER"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neshwa/Desktop/My%20Projects/VIPER/VIPER/NoticeModule/NoticePresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4609261-8D62-47D0-BAEA-049F03733D56"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewToPresenterProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894E5C9C-34ED-440A-A180-65904AAEA176"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "showNotice(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "647561A3-4946-4A65-BF17-1C0223AD98E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1F577A2E-FAFC-490D-AC81-0DB91A98E37B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VIPER/NoticeModule/NoticeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
